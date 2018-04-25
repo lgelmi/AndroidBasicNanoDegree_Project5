@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/item_name"
+            style="@style/NameStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/standard_padding"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/item_name_size"
+            tools:text="Ameiko Kaijitsu" />
+
+        <ImageView
+            android:id="@+id/item_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/item_image"
+            android:padding="@dimen/standard_padding"
+            android:scaleType="fitCenter"
+            tools:src="@drawable/magnimar" />
+
+        <TextView
+            android:id="@+id/item_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/standard_padding"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/item_desc_size"
+            tools:text="Ameiko Kaijitsu is best known in the Varisian town of Sandpoint as the proprietor of the Rusty Dragon, the most popular tavern in town. A member of the town's small aristocracy, she is the eldest daughter of Lonjiku Kaijitsu and Atsuii Kaijitsu, and half-sister of both Amaya[1] and Tsuto Kaijitsu (who are unrelated to each other)." />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/owner_layout"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/kilo_padding">
+
+            <TextView
+                style="@style/NameStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/owner"
+                android:textAlignment="center"
+                android:textColor="@android:color/black" />
+
+            <include
+                android:id="@+id/owner_item"
+                layout="@layout/list_item"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>

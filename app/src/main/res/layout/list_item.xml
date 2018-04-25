@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height"
+    android:orientation="horizontal"
+    android:id="@+id/item_layout"
+    tools:background="@color/category_people">
+
+    <ImageView
+        android:id="@+id/item_image"
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:padding="@dimen/standard_padding"
+        android:contentDescription="@string/item_image"
+        tools:src="@drawable/pathicon" />
+
+    <TextView
+        style="@style/NameStyle"
+        android:id="@+id/item_name"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:paddingEnd="@dimen/standard_padding"
+        android:paddingStart="@dimen/standard_padding"
+        tools:text="Trial Word" />
+
+    <ImageView
+        android:id="@+id/item_icon"
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/category_icon"
+        android:padding="@dimen/icon_padding"
+        tools:src="@drawable/pg" />
+
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+Most credits goes to Paizo, creator of the game.
+cathedral: https://the-protectors-of-sandpoint.obsidianportal.com/wikis/sandpoint-cathedral
+Icons:
+armory: https://www.flaticon.com/free-icon/sword_822003
+general_store: https://www.flaticon.com/free-icon/shop_126122
+inns: https://www.flaticon.com/free-icon/beer_811992
+pg: https: https://www.flaticon.com/free-icon/avatar_126486
+poi: https://www.flaticon.com/free-icon/favorite-place_106139
+shops: https://www.flaticon.com/free-icon/online-shopping-cart_70369
+village: https://www.flaticon.com/free-icon/village_734142

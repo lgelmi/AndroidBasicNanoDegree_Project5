@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+    <!-- Word Dimesion -->
+    <dimen name="item_name_size">28sp</dimen>
+    <dimen name="item_desc_size">16sp</dimen>
+    <dimen name="word_size">20sp</dimen>
+    <!-- Paddings -->
+    <dimen name="icon_padding">24dp</dimen>
+    <dimen name="standard_padding">8dp</dimen>
+    <dimen name="kilo_padding">16dp</dimen>
+</resources>

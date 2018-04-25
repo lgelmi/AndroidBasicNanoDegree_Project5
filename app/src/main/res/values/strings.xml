@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PathAdvisor</string>
+    <!-- Category names -->
+    <string name="category_none">All</string>
+    <string name="category_cities">Cities</string>
+    <string name="category_inns">Inns</string>
+    <string name="category_people">People</string>
+    <string name="category_poi">POI</string>
+    <string name="category_shops">Shops</string>
+    <!-- View Keys -->
+    <string name="owns">Owns</string>
+    <string name="owner">Owner</string>
+    <!-- Others -->
+    <string name="details_description">Hit to access to further details!</string>
+    <string name="category_icon">An icon to identify the item category</string>
+    <string name="item_image">An image representing the item</string>
+
+</resources>
