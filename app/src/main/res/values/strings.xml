@@ -14,5 +14,34 @@
     <string name="details_description">Hit to access to further details!</string>
     <string name="category_icon">An icon to identify the item category</string>
     <string name="item_image">An image representing the item</string>
+    <string name="abstalar_name">Abstalar Zantus</string>
+    <string name="aldern_name">Aldern Foxglove</string>
+    <string name="ameiko_name">Ameiko Kaijitsu</string>
+    <string name="kendra_name">Kendra Deverin</string>
+    <string name="magnimar_name">Magnimar</string>
+    <string name="sandpoint_name">Sandpoint</string>
+    <string name="deer_name">The White Deer</string>
+    <string name="rusty_name">The Rusty Dragon</string>
+    <string name="cathedral_name">Sandpoint Cathedral</string>
+    <string name="old_light_name">The Old Light</string>
+    <string name="savah_nama">Savah\'s Armory</string>
+    <string name="vinder_name">Vinder\'s General Store</string>
+    <string name="abstalar_desc">When the Sandpoint chapel burnt to the ground in 4702 AR, killing the town\'s priest, Ezakien Tobyn, his position in the town was filled by his top acolyte, Abstalar Zantus.  Though Father Zantus is himself a cleric of Desna, his role as high-priest requires him to be open to other faiths, and he is more than willing and open to assist followers of other gods with spiritual matters.</string>
+    <string name="aldern_desc">Aldern Foxglove, son of Traver and Cyralie Foxglove, was a minor Magnimarian noble with a cursed fate. Known primarily for his way with women, Aldern was unlucky in ways financial and fell in with the wrong crowd—a band of cultists who would lead him down the path of betrayal, madness, and murder.</string>
+    <string name="ameiko_desc">Ameiko Kaijitsu is best known in the Varisian town of Sandpoint as the proprietor of the Rusty Dragon, the most popular tavern in town. A member of the town\'s small aristocracy, she is the eldest daughter of Lonjiku Kaijitsu and Atsuii Kaijitsu, and half-sister of both Amaya and Tsuto Kaijitsu (who are unrelated to each other).</string>
+    <string name="kendra_desc">Kendra Deverin has served as Sandpoint\'s mayor since 4702 AR. Lawmaker, judge, and general peacemaker, she has proven to be both an adept diplomat and stern hand when need be, both skills honed during her youth in Magnimar. With a personal—some say sisterly—style of governing, most of Sandpoint\'s citizens hold deep respect for their fiery-haired mayor.  Kendra is the niece of Lord Hobart Deverin, the head of her family in Magnimar.</string>
+    <string name="magnimar_desc">The city of Magnimar (pronounced MAG-nih-mahr) stands as one of the two major city-states of southern Varisia. Founded by Korvosan dissenters in 4608 AR, the City of Monuments now stands as a rival to Korvosa in an open war of coin and words.</string>
+    <string name="sandpoint_desc">Resting in a natural cove along the cliff-lined Lost Coast region of Varisia, on the edge of the Varisian Gulf, Sandpoint is a medium-sizedcity that exemplifies the diverse people of the country.  While only about thirty miles northeast of the city of Magnimar and technically under its rule, Sandpoint benefits from its isolated position in its ability to remain fairly independent.  The most striking feature is the ruined beacon of the city that extends high above the cliffs of the coast, reflecting the ancient empire of Thassilon that existed here centuries before the present town was settled.</string>
+    <string name="deer_desc">he White Deer is an inn and tavern, and the northernmost building in the town of Sandpoint. Rebuilt after a building at the same location burned as part of the late unpleasantness, in 4702 AR, this business is owned and primarily maintained by one Garridan Viskalai and his family.</string>
+    <string name="garridan_name">Garridan Viksalay</string>
+    <string name="rusty_desc">The Rusty Dragon is the oldest inn in Sandpoint, and thanks to its owner and its ever-present \"Help Wanted\" board is also one of the most popular and adventurer-friendly. Owned and operated by Ameiko Kaijitsu, the inn can be found just past the southern bridge overlooking the Turandarok River at the corner of Market and River Streets. Known for its spicy and exotic foods, it is a favorite at the community\'s annual Swallowtail Festival free lunch.</string>
+    <string name="cathedral_desc">The current Sandpoint Cathedral was dedicated in the year 4707 AR.  Located in the town of Sandpoint, this structure was built to replace a chapel that was destroyed by a fire five years earlier in a series of events that have become known as the late unpleasantness. The new building has been established on the same site as the old, and has been greatly improved upon through the efforts of Sandpoint\'s citizens and the initiative of the town\'s mayor, Kendra Deverin.</string>
+    <string name="old_light_desc">The Old Light is the most visible landmark of the western Varisian town of Sandpoint. It is believed to have been a lighthouse during the ancient Thassilonian empire, though much of the structure has crumbled over the ages.</string>
+    <string name="savah_real_name">Savah</string>
+    <string name="savah_desc">Savah\'s Armory, owned and run by Savah Bevaniky, can be found on Tower Street in Sandpoint.   It sells many types of armor and weapons, including well-made items and exotic weapons such as spiked chains, shuriken, and a magical repeating crossbow.  The building was damaged during the Sandpoint Fire of 4702 AR, but thanks to Bevaniky\'s quick work, it did not cause any irreparable damage.</string>
+    <string name="ven_name">Ven Vinder</string>
+    <string name="vinder_desc">Owned and operated by Ven Vinder and his family, Sandpoint\'s oldest and best-stocked general store has a little bit of everything: farm equipment, weapons, tack, tools, furniture, food, and even homemade pies baked by Ven\'s wife Solsta.</string>
+    <string name="default_head">OBJECT</string>
+    <string name="path_item_name">PathItem</string>
 
 </resources>

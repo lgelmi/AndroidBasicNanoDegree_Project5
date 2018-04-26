@@ -55,7 +55,7 @@ public class PathAdapter extends ArrayAdapter<PathItem> {
             @Override
             public void onClick(View view) {
                 Intent detailIntent = new Intent(context, DetailsActivity.class)
-                        .putExtra("PathItem", item);
+                        .putExtra(context.getString(R.string.path_item_name), item);
                 context.startActivity(detailIntent);
             }
         });

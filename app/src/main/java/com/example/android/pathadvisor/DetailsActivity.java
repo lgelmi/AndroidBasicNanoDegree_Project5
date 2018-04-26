@@ -27,7 +27,7 @@ public class DetailsActivity extends AppCompatActivity {
         View ownerLayout = findViewById(R.id.owner_layout);
         View ownerItem = findViewById(R.id.owner_item);
         // Extract values from class
-        PathItem detailItem = getIntent().getExtras().getParcelable("PathItem");
+        PathItem detailItem = getIntent().getExtras().getParcelable(this.getString(R.string.path_item_name));
         String detailName = detailItem.getItemName();
         int imageId = detailItem.getImageResourceId();
         String detailDescription = detailItem.getDescription();
